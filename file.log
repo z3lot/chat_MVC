@@ -1,0 +1,367 @@
+[log] -> Server-stop
+[log] -> Server-init-to: ('localhost', 9090)
+[log] -> New-connection: ('127.0.0.1', 38564)
+[log] -> ('127.0.0.1', 38564)->[mrx]: hola
+[log] -> ('127.0.0.1', 38564)->[mrx]: mensage de prueba
+[log] -> Connection-close: [mrx]->('127.0.0.1', 38564)
+[log] -> Server-stop
+[Errno 98] Address already in use
+[Errno 98] Address already in use
+[log] -> Server-init-to: ('localhost', 9090)
+[log] -> New-connection: ('127.0.0.1', 38566)
+[log] -> Server-stop
+[log] -> Server-init-to: ('localhost', 9090)
+[log] -> New-connection: ('127.0.0.1', 38572)
+[log] -> Server-stop
+[log] -> Server-init-to: ('localhost', 9090)
+[log] -> New-connection: ('127.0.0.1', 38584)
+[log] -> Server-init-to: ('localhost', 9090)
+[log] -> New-connection: ('127.0.0.1', 38586)
+[log] -> ('127.0.0.1', 38586)->[jorge]: ok
+[log] -> Server-stop
+[log] -> New-connection: ('127.0.0.1', 38588)
+[log] -> ('127.0.0.1', 38588)->[jorge]: sadas
+[log] -> ('127.0.0.1', 38588)->[jorge]: asdasd
+[log] -> Connection-close: [jorge]->('127.0.0.1', 38588)
+[Errno 98] Address already in use
+[log] -> Server-init-to: ('localhost', 9090)
+[log] -> Server-init-to: ('localhost', 9090)
+[log] -> New-connection: ('127.0.0.1', 38590)
+[log] -> Connection-close: [aaaa]->('127.0.0.1', 38590)
+[log] -> Server-stop
+[log] -> New-connection: ('127.0.0.1', 38592)
+[log] -> Connection-close: [aaaa]->('127.0.0.1', 38592)
+[log] -> Server-init-to: ('localhost', 9090)
+[log] -> New-connection: ('127.0.0.1', 38594)
+[log] -> Server-stop
+[log] -> Server-init-to: ('localhost', 9090)
+[log] -> New-connection: ('127.0.0.1', 38596)
+[log] -> Server-stop
+[log] -> New-connection: ('127.0.0.1', 38598)
+[log] -> Connection-close: [mrx2]->('127.0.0.1', 38598)
+[log] -> Server-init-to: ('localhost', 9090)
+[log] -> Server-stop
+[Errno 98] Address already in use
+[Errno 98] Address already in use
+[log] -> Server-init-to: ('localhost', 9090)
+[log] -> New-connection: ('127.0.0.1', 38602)
+[log] -> Connection-close: [luis]->('127.0.0.1', 38602)
+[log] -> Server-stop
+[Errno 98] Address already in use
+[Errno 98] Address already in use
+[log] -> Server-init-to: ('localhost', 9090)
+[log] -> Server-stop
+[Errno 98] Address already in use
+[log] -> Server-init-to: ('localhost', 9091)
+[log] -> New-connection: ('127.0.0.1', 45252)
+[log] -> Connection-close: [user]->('127.0.0.1', 45252)
+[log] -> Server-stop
+[Errno 98] Address already in use
+[log] -> Server-init-to: ('localhost', 9090)
+[log] -> New-connection: ('127.0.0.1', 38608)
+[log] -> Connection-close: [asd]->('127.0.0.1', 38608)
+[log] -> Server-stop
+[Errno 98] Address already in use
+[Errno 98] Address already in use
+[Errno 98] Address already in use
+[log] -> Server-init-to: ('localhost', 9090)
+[log] -> New-connection: ('127.0.0.1', 38610)
+[log] -> Connection-close: [usernama]->('127.0.0.1', 38610)
+[log] -> Server-stop
+[Errno 98] Address already in use
+[Errno 98] Address already in use
+[Errno 98] Address already in use
+[Errno 98] Address already in use
+[log] -> Server-init-to: ('localhost', 9090)
+[log] -> New-connection: ('127.0.0.1', 38616)
+[log] -> Connection-close: [mrx]->('127.0.0.1', 38616)
+[log] -> Server-stop
+[log] -> Server-init-to: ('localhost', 9090)
+[log] -> New-connection: ('127.0.0.1', 38618)
+[log] -> ('127.0.0.1', 38618)->[mrxANDO]: WEA
+[log] -> Connection-close: [mrxANDO]->('127.0.0.1', 38618)
+[log] -> Server-stop
+[log] -> Server-init-to: ('localhost', 9090)
+[log] -> Server-stop
+[Errno 98] Address already in use
+[log] -> New-connection: ('127.0.0.1', 38620)
+[log] -> Connection-close: [pva]->('127.0.0.1', 38620)
+[log] -> Server-init-to: ('localhost', 9090)
+[log] -> Server-stop
+[Errno 98] Address already in use
+[Errno 98] Address already in use
+[Errno 98] Address already in use
+[Errno 98] Address already in use
+[Errno 98] Address already in use
+[Errno 98] Address already in use
+[Errno 98] Address already in use
+[Errno 98] Address already in use
+[Errno 98] Address already in use
+[Errno 98] Address already in use
+[log] -> Server-init-to: ('localhost', 9090)
+[log] -> New-connection: ('127.0.0.1', 38622)
+[log] -> Connection-close: [xxx]->('127.0.0.1', 38622)
+[log] -> Server-stop
+[log] -> New-connection: ('127.0.0.1', 38624)
+[log] -> Connection-close: [xxx]->('127.0.0.1', 38624)
+[log] -> Server-init-to: ('localhost', 9090)
+[log] -> New-connection: ('127.0.0.1', 38626)
+[log] -> Connection-close: [uss]->('127.0.0.1', 38626)
+[log] -> Server-stop
+[log] -> New-connection: ('127.0.0.1', 38628)
+[Errno 98] Address already in use
+[Errno 98] Address already in use
+[log] -> Server-init-to: ('localhost', 9090)
+[log] -> New-connection: ('127.0.0.1', 38660)
+[log] -> Server-stop
+[log] -> New-connection: ('127.0.0.1', 38662)
+[log] -> Connection-close: [usernamaa]->('127.0.0.1', 38662)
+[log] -> Server-init-to: ('localhost', 9090)
+[log] -> New-connection: ('127.0.0.1', 38680)
+[log] -> Connection-close: [usernamex]->('127.0.0.1', 38680)
+[log] -> Server-stop
+[log] -> New-connection: ('127.0.0.1', 38682)
+[Errno 98] Address already in use
+[log] -> Connection-close: [usernamex]->('127.0.0.1', 38682)
+[log] -> Server-init-to: ('localhost', 9090)
+[log] -> Server-stop
+[Errno 98] Address already in use
+[log] -> New-connection: ('127.0.0.1', 38696)
+[log] -> Connection-close: [usernamex]->('127.0.0.1', 38696)
+[log] -> Server-init-to: ('localhost', 9090)
+[log] -> New-connection: ('127.0.0.1', 38710)
+[log] -> Server-init-to: ('localhost', 9090)
+[log] -> New-connection: ('127.0.0.1', 38712)
+[log] -> ('127.0.0.1', 38712)->[userna]: a
+[log] -> ('127.0.0.1', 38712)->[userna]: as
+[log] -> ('127.0.0.1', 38712)->[userna]: asdad
+[log] -> ('127.0.0.1', 38712)->[userna]: adadad
+[log] -> ('127.0.0.1', 38712)->[userna]: adadadad
+[log] -> ('127.0.0.1', 38712)->[userna]: aaa
+[log] -> ('127.0.0.1', 38712)->[userna]: a
+[log] -> ('127.0.0.1', 38712)->[userna]: a
+[log] -> ('127.0.0.1', 38712)->[userna]: a
+[log] -> ('127.0.0.1', 38712)->[userna]: a
+[log] -> Server-stop
+[log] -> Server-init-to: ('localhost', 9090)
+[log] -> New-connection: ('127.0.0.1', 38714)
+[log] -> Server-init-to: ('localhost', 9090)
+[log] -> New-connection: ('127.0.0.1', 38718)
+[log] -> ('127.0.0.1', 38718)->[usernaae]: a
+[log] -> ('127.0.0.1', 38718)->[usernaae]: a
+[log] -> ('127.0.0.1', 38718)->[usernaae]: a
+[log] -> ('127.0.0.1', 38718)->[usernaae]: a
+[log] -> ('127.0.0.1', 38718)->[usernaae]: a
+[log] -> ('127.0.0.1', 38718)->[usernaae]: a
+[log] -> ('127.0.0.1', 38718)->[usernaae]: a
+[log] -> ('127.0.0.1', 38718)->[usernaae]: a
+[log] -> ('127.0.0.1', 38718)->[usernaae]: a
+[log] -> ('127.0.0.1', 38718)->[usernaae]: a
+[log] -> ('127.0.0.1', 38718)->[usernaae]: a
+[log] -> ('127.0.0.1', 38718)->[usernaae]: a
+[log] -> ('127.0.0.1', 38718)->[usernaae]: a
+[log] -> Connection-close: [usernaae]->('127.0.0.1', 38718)
+[log] -> Server-stop
+[Errno 98] Address already in use
+[log] -> Server-init-to: ('localhost', 9090)
+[log] -> New-connection: ('127.0.0.1', 38726)
+[log] -> Server-init-to: ('localhost', 9092)
+[log] -> New-connection: ('127.0.0.1', 58900)
+[log] -> Server-init-to: ('localhost', 9090)
+[log] -> New-connection: ('127.0.0.1', 38730)
+[log] -> Server-init-to: ('localhost', 9090)
+[log] -> New-connection: ('127.0.0.1', 38732)
+[log] -> ('127.0.0.1', 38732)->[usernaa]: a
+[log] -> ('127.0.0.1', 38732)->[usernaa]: a
+[log] -> ('127.0.0.1', 38732)->[usernaa]: a
+[log] -> ('127.0.0.1', 38732)->[usernaa]: a
+[log] -> ('127.0.0.1', 38732)->[usernaa]: a
+[log] -> ('127.0.0.1', 38732)->[usernaa]: a
+[log] -> ('127.0.0.1', 38732)->[usernaa]: a
+[log] -> ('127.0.0.1', 38732)->[usernaa]: a
+[log] -> ('127.0.0.1', 38732)->[usernaa]: a
+[log] -> ('127.0.0.1', 38732)->[usernaa]: a
+[log] -> ('127.0.0.1', 38732)->[usernaa]: a
+[log] -> ('127.0.0.1', 38732)->[usernaa]: a
+[log] -> ('127.0.0.1', 38732)->[usernaa]: a
+[log] -> ('127.0.0.1', 38732)->[usernaa]: a
+[log] -> ('127.0.0.1', 38732)->[usernaa]: a
+[log] -> Server-init-to: ('localhost', 9090)
+[log] -> New-connection: ('127.0.0.1', 38734)
+[log] -> ('127.0.0.1', 38734)->[usernamx]: asd
+[log] -> ('127.0.0.1', 38734)->[usernamx]: a
+[log] -> ('127.0.0.1', 38734)->[usernamx]: a
+[log] -> ('127.0.0.1', 38734)->[usernamx]: a
+[log] -> ('127.0.0.1', 38734)->[usernamx]: a
+[log] -> ('127.0.0.1', 38734)->[usernamx]: a
+[log] -> ('127.0.0.1', 38734)->[usernamx]: a
+[log] -> ('127.0.0.1', 38734)->[usernamx]: a
+[log] -> ('127.0.0.1', 38734)->[usernamx]: a
+[log] -> ('127.0.0.1', 38734)->[usernamx]: a
+[log] -> Server-init-to: ('localhost', 9090)
+[log] -> New-connection: ('127.0.0.1', 38736)
+[log] -> ('127.0.0.1', 38736)->[usernaa]: a
+[log] -> ('127.0.0.1', 38736)->[usernaa]: a
+[log] -> ('127.0.0.1', 38736)->[usernaa]: a
+[log] -> ('127.0.0.1', 38736)->[usernaa]: a
+[log] -> ('127.0.0.1', 38736)->[usernaa]: a
+[log] -> ('127.0.0.1', 38736)->[usernaa]: a
+[log] -> ('127.0.0.1', 38736)->[usernaa]: a
+[log] -> ('127.0.0.1', 38736)->[usernaa]: a
+[log] -> ('127.0.0.1', 38736)->[usernaa]: a
+[log] -> ('127.0.0.1', 38736)->[usernaa]: a
+[log] -> ('127.0.0.1', 38736)->[usernaa]: a
+[log] -> Server-init-to: ('localhost', 9090)
+[log] -> New-connection: ('127.0.0.1', 38738)
+[log] -> ('127.0.0.1', 38738)->[usernxe]: a
+[log] -> ('127.0.0.1', 38738)->[usernxe]: a
+[log] -> ('127.0.0.1', 38738)->[usernxe]: a
+[log] -> ('127.0.0.1', 38738)->[usernxe]: a
+[log] -> ('127.0.0.1', 38738)->[usernxe]: a
+[log] -> ('127.0.0.1', 38738)->[usernxe]: a
+[log] -> ('127.0.0.1', 38738)->[usernxe]: a
+[log] -> ('127.0.0.1', 38738)->[usernxe]: a
+[log] -> ('127.0.0.1', 38738)->[usernxe]: a
+[log] -> ('127.0.0.1', 38738)->[usernxe]: a
+[log] -> ('127.0.0.1', 38738)->[usernxe]: a
+[log] -> ('127.0.0.1', 38738)->[usernxe]: a
+[log] -> ('127.0.0.1', 38738)->[usernxe]: a
+[log] -> ('127.0.0.1', 38738)->[usernxe]: a
+[log] -> Server-init-to: ('localhost', 9090)
+[log] -> New-connection: ('127.0.0.1', 38744)
+[log] -> ('127.0.0.1', 38744)->[yo]: a
+[log] -> ('127.0.0.1', 38744)->[yo]: a
+[log] -> ('127.0.0.1', 38744)->[yo]: a
+[log] -> ('127.0.0.1', 38744)->[yo]: a
+[log] -> ('127.0.0.1', 38744)->[yo]: a
+[log] -> ('127.0.0.1', 38744)->[yo]: a
+[log] -> ('127.0.0.1', 38744)->[yo]: a
+[log] -> ('127.0.0.1', 38744)->[yo]: a
+[log] -> ('127.0.0.1', 38744)->[yo]: a
+[log] -> ('127.0.0.1', 38744)->[yo]: a
+[log] -> ('127.0.0.1', 38744)->[yo]: a
+[log] -> ('127.0.0.1', 38744)->[yo]: a
+[log] -> ('127.0.0.1', 38744)->[yo]: a
+[log] -> ('127.0.0.1', 38744)->[yo]: a
+[log] -> ('127.0.0.1', 38744)->[yo]: a
+[log] -> ('127.0.0.1', 38744)->[yo]: s
+[log] -> Connection-close: [yo]->('127.0.0.1', 38744)
+[log] -> Server-stop
+[Errno 98] Address already in use
+[log] -> Server-init-to: ('localhost', 9092)
+[log] -> New-connection: ('127.0.0.1', 58918)
+[log] -> Server-stop
+[log] -> Server-init-to: ('localhost', 9090)
+[log] -> New-connection: ('127.0.0.1', 46224)
+[log] -> Server-stop
+[log] -> Server-init-to: ('localhost', 9090)
+[log] -> New-connection: ('127.0.0.1', 46226)
+[log] -> Connection-close: [usernaakalix]->('127.0.0.1', 46226)
+[log] -> Server-stop
+[log] -> Server-init-to: ('localhost', 9090)
+[log] -> New-connection: ('127.0.0.1', 46228)
+[log] -> New-connection: ('127.0.0.1', 46230)
+[log] -> New-connection: ('127.0.0.1', 46232)
+[log] -> Server-stop
+[log] -> Server-init-to: ('localhost', 9090)
+[log] -> New-connection: ('127.0.0.1', 46234)
+[log] -> Connection-close: [users]->('127.0.0.1', 46234)
+[log] -> Server-stop
+[log] -> Server-init-to: ('localhost', 9090)
+[log] -> Server-stop
+[Errno 98] Address already in use
+[Errno 98] Address already in use
+[log] -> Server-init-to: ('localhost', 9090)
+[log] -> Server-stop
+[Errno 98] Address already in use
+[Errno 98] Address already in use
+[log] -> Server-init-to: ('localhost', 9090)
+[log] -> New-connection: ('127.0.0.1', 46236)
+[log] -> Connection-close: [usernas]->('127.0.0.1', 46236)
+[log] -> Server-stop
+[log] -> Server-init-to: ('localhost', 9090)
+module 'pygame.mixer' has no attribute 'misic'
+[log] -> Server-init-to: ('localhost', 9090)
+[log] -> New-connection: ('127.0.0.1', 55282)
+[log] -> ('127.0.0.1', 55282)->[usernasd]: a
+[log] -> ('127.0.0.1', 55282)->[usernasd]: a
+[log] -> ('127.0.0.1', 55282)->[usernasd]: a
+[log] -> ('127.0.0.1', 55282)->[usernasd]: a
+[log] -> ('127.0.0.1', 55282)->[usernasd]: a
+[log] -> ('127.0.0.1', 55282)->[usernasd]: aa
+[log] -> ('127.0.0.1', 55282)->[usernasd]: a
+[log] -> ('127.0.0.1', 55282)->[usernasd]: aa
+[log] -> ('127.0.0.1', 55282)->[usernasd]: a
+[log] -> ('127.0.0.1', 55282)->[usernasd]: a
+[log] -> ('127.0.0.1', 55282)->[usernasd]: aa
+[log] -> ('127.0.0.1', 55282)->[usernasd]: a
+[log] -> ('127.0.0.1', 55282)->[usernasd]: a
+[log] -> ('127.0.0.1', 55282)->[usernasd]: exit
+[log] -> Connection-close: [usernasd]->('127.0.0.1', 55282)
+[log] -> Server-stop
+[log] -> Server-init-to: ('localhost', 9090)
+[log] -> New-connection: ('127.0.0.1', 50164)
+[log] -> Connection-close: [xds]->('127.0.0.1', 50164)
+[log] -> Server-stop
+[Errno 98] Address already in use
+[Errno 98] Address already in use
+[Errno 98] Address already in use
+[Errno 98] Address already in use
+[Errno 98] Address already in use
+[Errno 98] Address already in use
+[log] -> Server-init-to: ('localhost', 9090)
+[log] -> Server-stop
+[Errno 98] Address already in use
+[log] -> Server-init-to: ('localhost', 9090)
+[log] -> Server-stop
+[Errno 98] Address already in use
+[log] -> Server-init-to: ('localhost', 9090)
+[log] -> Server-stop
+[Errno 98] Address already in use
+[log] -> Server-init-to: ('localhost', 9090)
+[log] -> Server-stop
+[Errno 98] Address already in use
+[Errno 98] Address already in use
+[Errno 98] Address already in use
+[Errno 98] Address already in use
+[Errno 98] Address already in use
+[Errno 98] Address already in use
+[Errno 98] Address already in use
+[Errno 98] Address already in use
+[Errno 98] Address already in use
+[log] -> Server-init-to: ('localhost', 9090)
+[log] -> Server-stop
+[Errno 98] Address already in use
+[log] -> Server-init-to: ('localhost', 9090)
+[log] -> Server-stop
+[log] -> Server-init-to: ('localhost', 9090)
+[log] -> Server-stop
+[Errno 98] Address already in use
+[Errno 98] Address already in use
+[Errno 98] Address already in use
+[Errno 98] Address already in use
+[log] -> Server-init-to: ('localhost', 9090)
+[log] -> New-connection: ('127.0.0.1', 57730)
+[log] -> ('127.0.0.1', 57730)->[xuser]: xx
+[log] -> ('127.0.0.1', 57730)->[xuser]: asdasd
+[log] -> New-connection: ('127.0.0.1', 57732)
+[log] -> ('127.0.0.1', 57732)->[yo]: hi
+[log] -> ('127.0.0.1', 57730)->[xuser]: hi
+[log] -> Connection-close: [xuser]->('127.0.0.1', 57730)
+[log] -> Connection-close: [yo]->('127.0.0.1', 57732)
+[log] -> Server-stop
+[Errno 98] Address already in use
+[log] -> Server-init-to: ('localhost', 9000)
+[log] -> New-connection: ('127.0.0.1', 59610)
+[log] -> New-connection: ('127.0.0.1', 59612)
+[log] -> ('127.0.0.1', 59612)->[yo1]: hola
+[log] -> ('127.0.0.1', 59610)->[yo2]: hola 
+[log] -> Server-init-to: ('localhost', 9090)
+[log] -> New-connection: ('127.0.0.1', 57734)
+[log] -> New-connection: ('127.0.0.1', 57736)
+[log] -> ('127.0.0.1', 57736)->[xuser]: a
+[log] -> ('127.0.0.1', 57734)->[serverUser]: q tall
+[log] -> ('127.0.0.1', 57736)->[xuser]: xasas
+[log] -> Connection-close: [xuser]->('127.0.0.1', 57736)
+[log] -> Connection-close: [serverUser]->('127.0.0.1', 57734)
+[log] -> Server-stop
