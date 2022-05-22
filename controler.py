@@ -1,7 +1,4 @@
-import socket
 import tkinter
-import threading
-from tkinter import ttk
 from playsound import playsound
 from view import View
 from model import SocketServer,SocketClient
