@@ -132,8 +132,6 @@ class Controller():
             self.gui.treev.delete(self.tree_dict[user])
             self.tree_dict.pop(user)
 
-# TODO:
-# no se como liberar el puerto despues de cerrar el socket "TIME_WAIT" (no pasa en windows)
 def main():
     app = Controller()
 if __name__ == "__main__":

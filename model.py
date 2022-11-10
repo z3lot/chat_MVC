@@ -1,6 +1,8 @@
 import socket
 import threading
-import argparse
+
+def consol_log(t,**args):
+    print(t)
 
 class SocketServer():
     def __init__(self,ip,port,func,tree=None):
@@ -129,6 +131,7 @@ class SocketClient():
                     break
                 self.sock.sendall(msg)
                 self.func(f"[{self.user}]:{msg.decode()}")
+                print('test')
 
     def run(self):
         if self.err == False:
