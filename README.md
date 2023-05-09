@@ -4,4 +4,4 @@
 
 ---
 
-**None**:*Project to learn python and git*
+**Note**:*Project to learn python and git*
